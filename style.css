@@ -1,0 +1,22 @@
+:root {
+    --ColorAzul : blue;
+}
+
+p{
+    color : var(--ColorAzul);
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 40px;
+    color: var(--ColorAzul);
+}
+
+img{
+    width: 452px;
+}
+
+ul{
+    list-style: src= 
+}
